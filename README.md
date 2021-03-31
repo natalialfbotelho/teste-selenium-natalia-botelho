@@ -24,42 +24,42 @@ Acessar o site da Tricentis
 <b>Cenário</b>: Preencher formulário<br>
 - [x] Dado que eu estou no site da Tricentis              	             
 - [x] E escolho a marca "Audi"
-              - [x] E escolho o modelo "Scooter"
-              - [x] E preencho capacidade do cilindro com "1000"
-              - [x]E preencho desempenho do motor com "125"
-              - [x]E escolho a data de fabricacao "01/10/2020"
-              - [x]E seleciono o numero de acentos "2"
-              - [x]E escolho o tipo de combustivel "Petrol"
-              - [x]E preencho a carga util com "150"
-              - [x]E preencho o peso total com "115"
-							- [x]E preencho o preco de tabela com "2000"
-							- [x]E preencho a milhagem anual com "200"               
-              - [x]Entao devo clicar em Next
-             	- [x]E preencho o primeiro nome "Natalia"
-             	- [x]E preencho o ultimo nome "Botelho"
-             	- [x]E preencho a data de nascimento "01/05/1990"
-             	- [x]E escolho o pais "Brazil"
-             	- [x]E preencho o codigo postal "45000000"
-             	- [x]E preencho a ocupacao "Employee"
-             	- [x]E escolho o hobby Speeding
-              - [x]Entao devo clicar em proximo
-             	- [x]E preencho data de inicio com "05/05/2021"
-             	- [x]E escolho soma do seguro "3.000.000,00"
-             	- [x]E escolho a classificacao "Super Bonus"
-             	- [x]E escolho seguro de danos "No Coverage"
-             	- [x]E escolho produtos opcionais "Legal Defense Insurance"
-             	- [x]E escolho carro de cortesia No
-              - [x]Entao devo clicar no botao next
-             	- [x]E seleciono a opcao de preco "Gold"
-              - [x]Entao devo clicar no botao proximo
-             	- [x]E preencho o campo email com "natalia@email.com"
-             	- [x]E preencho o campo telefone com "5555555555"
-             	- [x]E preencho o campo nome de usuario com "natalialf"       
-             	- [x]E preencho o campo senha com "Natalia1"
-             	- [x]E preencho o campo confirmar senha com "Natalia1"
-             	- [x]E preencho os comentarios com "Comentarios"
-              - [x]Entao devo clicar em send
-             	- [x]E devo ver a mensagem de sucesso
+- [x] E escolho o modelo "Scooter"
+- [x] E preencho capacidade do cilindro com "1000"
+- [x] E preencho desempenho do motor com "125"
+- [x] E escolho a data de fabricacao "01/10/2020"
+- [x] E seleciono o numero de acentos "2"
+- [x] E escolho o tipo de combustivel "Petrol"
+- [x] E preencho a carga util com "150"
+- [x] E preencho o peso total com "115"
+- [x] E preencho o preco de tabela com "2000"
+- [x] E preencho a milhagem anual com "200"               
+- [x] Entao devo clicar em Next
+- [x] E preencho o primeiro nome "Natalia"
+- [x] E preencho o ultimo nome "Botelho"
+- [x] E preencho a data de nascimento "01/05/1990"
+- [x] E escolho o pais "Brazil"
+- [x] E preencho o codigo postal "45000000"
+- [x] E preencho a ocupacao "Employee"
+- [x] E escolho o hobby Speeding
+- [x] Entao devo clicar em proximo
+- [x] E preencho data de inicio com "05/05/2021"
+- [x] E escolho soma do seguro "3.000.000,00"
+- [x] E escolho a classificacao "Super Bonus"
+- [x] E escolho seguro de danos "No Coverage"
+- [x] E escolho produtos opcionais "Legal Defense Insurance"
+- [x] E escolho carro de cortesia No
+- [x] Entao devo clicar no botao next
+- [x] E seleciono a opcao de preco "Gold"
+- [x] Entao devo clicar no botao proximo
+- [x] E preencho o campo email com "natalia@email.com"
+- [x] E preencho o campo telefone com "5555555555"
+- [x] E preencho o campo nome de usuario com "natalialf"       
+- [x] E preencho o campo senha com "Natalia1"
+- [x] E preencho o campo confirmar senha com "Natalia1"
+- [x] E preencho os comentarios com "Comentarios"
+- [x] Entao devo clicar em send
+- [x] E devo ver a mensagem de sucesso
 
 ---
 
