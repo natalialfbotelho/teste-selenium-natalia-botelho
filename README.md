@@ -101,7 +101,7 @@ cd teste-selenium-natalia-botelho
 
 ### 💻 Configurando selenium em seu computador
  
--[x] Fazer o download do [Chrome Webdriver](https://chromedriver.chromium.org/downloads) e colocar o arquivo descompactado dentro da pasta driver na raiz do projeto
+- [x] Fazer o download do [Chrome Webdriver](https://chromedriver.chromium.org/downloads) e colocar o arquivo descompactado dentro da pasta driver na raiz do projeto
 
 ### 💻 Limpando e validando maven Unix
 
