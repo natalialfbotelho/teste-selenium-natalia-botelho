@@ -4,12 +4,7 @@ Funcionalidade: Acessar o site da Tricentis
 
     		
         Cenario: Preencher formulario
-            Dado que eu estou no site da Tricentis
-            #Quando clico no <campo> com o <seletorCampo> para escolher o <seletorDado> referente ao <dado>          
-#	            Exemplos:
-#	            	| campo   | seletorCampo | seletorDado         | dado       |
-#	            	| "Make"  | "#make"      | "[value='Audi']"    | "Audi"     |
-#	            	| "Model" | "#model"     | "[value='Scooter']" | "Scooter"  |                	             
+            Dado que eu estou no site da Tricentis              	             
               E escolho a marca "Audi"
               E escolho o modelo "Scooter"
               E preencho capacidade do cilindro com "1000"

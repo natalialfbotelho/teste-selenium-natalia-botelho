@@ -11,19 +11,9 @@ import io.cucumber.natalia.servicos.Config;
 public class PreencherFormularioTestSteps{
    
 	@Dado("que eu estou no site da Tricentis")
-	public void abrindoPagina() {
+	public void abrirPagina() {
 		Config.abrirPagina("http://sampleapp.tricentis.com/101/app.php");
     }
-	
-//	@Quando("clico no {string} com o {string} para escolher o {string} referente ao {string}")
-//	public void escolherOsCampos(String campo, String seletorCampo, String seletorDado, String dado) throws InterruptedException {
-//		Config.cssSelector(seletorCampo).click();
-//		Thread.sleep(4000);
-//		WebElement dadoValidado = Config.cssSelector(seletorDado);		
-//		assertEquals(dado, dadoValidado.getText());
-//		dadoValidado.click();
-//		Thread.sleep(4000);
-//	}
 	
 	@Dado("escolho a marca {string}")
 	public void escolherAMarca(String string) {
