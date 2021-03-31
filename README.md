@@ -8,15 +8,7 @@
 
 ## 🦸 Autora
 
-  
-
-<img  style="border-radius: 50%;"  src="https://media-exp1.licdn.com/dms/image/C5603AQF2_UZ_xdqpew/profile-displayphoto-shrink_400_400/0?e=1605744000&v=beta&t=zA7RSdENmfwX1-NIuuw98EsoeMVfnPv8rpC86RDYVZU"  width="100px;"  alt=""/>
-
-
-<h3><b>Natália Botelho</b></h3>
-
-
-  
+<h3><b>Natália Botelho</b></h3>  
 
  [![Linkedin Badge](https://img.shields.io/badge/-Natália-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalialfbotelho/)](https://www.linkedin.com/in/natalialfbotelho/)
 
@@ -31,9 +23,9 @@ Acessar o site da Tricentis
 
 <b>Cenário</b>: Preencher formulário<br>
 Dado que eu estou no site da Tricentis              	             
-              - [x]E escolho a marca "Audi"
-              - [x]E escolho o modelo "Scooter"
-              - [x]E preencho capacidade do cilindro com "1000"
+              - [x] E escolho a marca "Audi"
+              - [x] E escolho o modelo "Scooter"
+              - [x] E preencho capacidade do cilindro com "1000"
               - [x]E preencho desempenho do motor com "125"
               - [x]E escolho a data de fabricacao "01/10/2020"
               - [x]E seleciono o numero de acentos "2"
