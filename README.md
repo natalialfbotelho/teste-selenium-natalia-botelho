@@ -22,8 +22,8 @@
 Acessar o site da Tricentis
 
 <b>Cenário</b>: Preencher formulário<br>
-Dado que eu estou no site da Tricentis              	             
-              - [x] E escolho a marca "Audi"
+- [x] Dado que eu estou no site da Tricentis              	             
+- [x] E escolho a marca "Audi"
               - [x] E escolho o modelo "Scooter"
               - [x] E preencho capacidade do cilindro com "1000"
               - [x]E preencho desempenho do motor com "125"
